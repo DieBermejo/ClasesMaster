@@ -1,5 +1,7 @@
 # Práctica 2: Análisis de Malware e Inteligencia
 
+Diego Bermejo, Jorge Menéndez, Javier Montalvo
+
 ## Usar plataformas como any.run para observar análisis de malware en vivo
 
 Para empezar con la tarea, se ha accedido a un análisis público de any.run: [https://app.any.run/tasks/85bdfec2-f33b-49c0-b1ec-0e594de79ced/](https://app.any.run/tasks/85bdfec2-f33b-49c0-b1ec-0e594de79ced/)
